@@ -92,3 +92,7 @@ Este código apresenta uma **solução temporária via software** para a impleme
 
 ---
 🔹 *Desenvolvido como parte do curso de Ciência de Dados na Ampli.*
+
+## 📞 Contato
+- GitHub: [Isaque Almeida](https://github.com/IsaqueAlmeida)
+- LinkedIn: [Isaque F. S. Almeida](https://www.linkedin.com/in/isaque-f-s-almeida/)
